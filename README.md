@@ -17,3 +17,8 @@ The Advanced_Story_Generator.py is an advanced method uses a wider variety of el
 
 Method 3:
 The tkinter_story_generator.py it actually provides a simple GUI for generating random stories using Tkinter
+
+
+![image](https://github.com/user-attachments/assets/e20f0b70-f0fa-4262-98dc-c53bd3295dd8)
+                              
+When the "Generate Story" button is clicked, a new story is displayed each time, accompanied by an image as shown above.
